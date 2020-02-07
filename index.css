@@ -1,0 +1,18 @@
+body{
+    background-color: pink
+}
+h1{
+    background-color: white;
+    font-style: italic;
+    font-weight: bold;
+    align-self: stretch;
+
+}
+#tom{
+    float: inline-start;
+}#snoop{
+    float:;
+}
+h6{
+    font-size: x-large;
+}
